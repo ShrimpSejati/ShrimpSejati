@@ -1,6 +1,6 @@
 # 💫 About Me:
 <center> About Me? </center>
-![gambar gagal dimuat](https://ibb.co.com/ymMYyCm2)
+[![gambar gagal dimuat](https://ibb.co.com/ymMYyCm2)]
 
 
 ## 🌐 Socials:
