@@ -1,6 +1,6 @@
 # 💫 About Me:
 <center> About Me? </center>
-[![gambar gagal dimuat](https://ibb.co.com/ymMYyCm2)]
+![gambar gagal dimuat]([https://ibb.co.com/ymMYyCm2](https://i.pinimg.com/736x/9a/f8/b4/9af8b41849e076c05087bfb6febf2756.jpg)
 
 
 ## 🌐 Socials:
@@ -14,6 +14,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ShrimpSejati&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=ShrimpSejati&icon=7&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
