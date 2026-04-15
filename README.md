@@ -1,7 +1,7 @@
 # 💫 About Me:
 <p align="center">
   About Me? <br>
-  <img src="[https://i.pinimg.com/736x/9a/f8/b4/9af8b41849e076c05087bfb6febf2756.jpg" width="300" alt="Me?">
+  <img src="https://i.pinimg.com/736x/9a/f8/b4/9af8b41849e076c05087bfb6febf2756.jpg" width="300" alt="Me?">
 </p>
 
 ## 🌐 Socials:
