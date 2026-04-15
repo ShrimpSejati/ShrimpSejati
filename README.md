@@ -1,7 +1,8 @@
 # 💫 About Me:
-<center> About Me? </center>
-![gambar gagal dimuat]([https://ibb.co.com/ymMYyCm2](https://i.pinimg.com/736x/9a/f8/b4/9af8b41849e076c05087bfb6febf2756.jpg)
-
+<p align="center">
+  About Me? <br>
+  <img src="[https://i.pinimg.com/736x/9a/f8/b4/9af8b41849e076c05087bfb6febf2756.jpg" width="300" alt="Me?">
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kadek.gede) 
